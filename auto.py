@@ -24,7 +24,6 @@ if enter == 2:
    f = open('download.txt', "r") 
    #name = f.readline().split()
    lst = list(f)
-   
    print("File Read Complete")
 if enter == 3:
    f_name = str(input("Your txt file name(add .txt extention): "))
