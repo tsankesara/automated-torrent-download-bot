@@ -3,6 +3,8 @@ from qbittorrent import Client
 from selenium.common.exceptions import NoSuchElementException
 from webdriver_manager.chrome import ChromeDriverManager
 def Fmodule(n, lst, quality):
+    qb = Client("http://127.0.0.1:8080/")
+    qb.login("admin", "adminadmin")
     i = 0
     j = 0
     tor_not_found = []

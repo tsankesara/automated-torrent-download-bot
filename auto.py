@@ -3,9 +3,6 @@ from qbittorrent import Client
 from selenium.common.exceptions import NoSuchElementException
 import OneThreeThreeSevenX as OTTSx
 
-qb = Client("http://127.0.0.1:8080/")
-qb.login("admin", "adminadmin")
-
 # creating an empty list 
 lst = [] 
   
