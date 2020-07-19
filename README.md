@@ -1,4 +1,7 @@
 # Bot For Downloading Torrents
+
+THIS IS FOR EDUCATIONAL PURPOSES ONLY!
+
 we all know how time consuming it is if we need to download torrents like crazy, this bot will help you with it.
 list all of your torrent names line by line in download.txt or your own txt file.
 
